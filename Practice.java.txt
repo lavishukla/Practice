@@ -1,0 +1,6 @@
+class Practice{
+
+	public void main(){
+
+	}
+}
